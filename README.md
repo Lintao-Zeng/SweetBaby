@@ -1,6 +1,3 @@
-# SweetBaby
-SweetBaby
-
 #### Unity version 2019.4.31.f1
 
 ## Unity 3D Text模糊解决方案
